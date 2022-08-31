@@ -1,0 +1,41 @@
+.dashboard {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 30px;
+    letter-spacing: 0.26px;
+    color: #555555;
+    margin-left: 20%;
+    width: 60%;
+}
+.dashboard-left {
+    display: flex;
+
+}
+.dashboard-right {
+
+    
+}
+.configure-btn {
+    background: #d8d8d8;
+    border-radius: 4px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 30px;
+    text-align: right;
+    letter-spacing: 0.26px;
+    color: #000000;
+    border: none;
+}
+.dashboard-left h5 {
+    margin: 0 15px;
+}
+
+
+

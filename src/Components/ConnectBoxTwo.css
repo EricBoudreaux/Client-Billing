@@ -1,0 +1,97 @@
+.container {
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin: 0 20%;
+    max-width: 1050px;
+    height: 679px;
+}
+.back {
+    text-align: start;
+}   
+.back i{
+    height: 25px;
+    width: 25px;
+    border-radius: 4px;
+    border: solid 1px #EDEDED;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding-top: 5px
+}
+.currency-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+    letter-spacing: 0.26px;
+    color: #000000;
+}
+.currency-sub-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+
+    text-align: center;
+    letter-spacing: 0.26px;
+    color: #555555;
+}
+.note-box {
+    background: #FCF4E6;
+    border-radius: 4px;
+    margin: 0 16%;
+    padding: 15px;
+}
+.note-box i {
+    color: #FFAC14
+}
+.note-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 22px;
+    letter-spacing: 0.26px;
+    color: #000000;
+}
+.currency-input {
+    background: #FFFFFF;
+    border: 1px solid #E6E6E6;
+    border-radius: 4px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+    letter-spacing: 0.26px;
+    color: #000000;
+    padding: 15px 40px;
+    margin: 20px;
+}
+.checkbox {
+    margin-right: 5px;
+}
+.aware-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 30px;
+    letter-spacing: 0.26px;
+    color: #555555;
+}
+.finish-setup-btn {
+    background: #286EF1;
+    border-radius: 4px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0.26px;
+    color: #FFFFFF;
+    border: none;
+    padding: 12.5px 25px;
+}

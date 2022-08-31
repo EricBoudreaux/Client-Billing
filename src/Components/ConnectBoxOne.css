@@ -1,0 +1,113 @@
+.container {
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin: 0 20%;
+    max-width: 1050px;
+}
+
+.connect-box-header {
+    display: flex;
+    justify-content: space-between;
+}
+.connect-box-header-left,
+.connect-box-header-right {
+    padding: 5px 25px;
+}
+.get-started {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 30px;
+    letter-spacing: 0.26px;
+    color: #000000;
+}
+.get-started-step {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 25px;
+    text-align: right;
+    letter-spacing: 0.26px;
+    color: #333333;
+}
+.connect-box-main {
+    background: #F9F9F9;
+    border-radius: 4px;
+    text-align: center;
+    margin: 30px 30px 15px 30px;
+    padding: 40px
+}
+.profile-graphic {
+    background: #EAF1FE;
+    color: #635BFF;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+.connect-account-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+    letter-spacing: 0.26px;
+    color: #000000;
+}
+.connect-account-subtext {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.26px;
+    color: #555555;
+}
+.transaction-box {
+    background: #FFFFFF;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 30%;
+    width: 50%;
+    box-sizing: content-box;
+}
+.transaction-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 30px;
+    letter-spacing: 0.26px;
+    color: #000000;
+}
+.getting-started-btn {
+    align-items: center;
+    padding: 12.5px 25px;
+    gap: 10px;
+    background: #286EF1;
+    border-radius: 4px;
+    border: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0.26px;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+.link-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.26px;
+    color: #286EF1;
+}

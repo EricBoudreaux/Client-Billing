@@ -1,0 +1,47 @@
+.connected-box {
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin: 10px 20%;
+    display: flex;
+    justify-content: space-around   ;
+    width: 60%;
+
+}
+.connected-box-left {
+    text-align: start;
+}
+.connected-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 30px;
+    letter-spacing: 0.26px;
+    color: #000000;
+
+}
+.connected-sub-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 0.26px;
+    color: #555555;
+    margin-top: -15px;
+
+}
+.confirmed-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 30px;
+    text-align: right;
+    letter-spacing: 0.26px;
+    color: #555555;
+    margin-top: 25px;
+}
+.confirmed-text i {
+    color: #18BB4B
+}

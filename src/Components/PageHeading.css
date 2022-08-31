@@ -1,0 +1,48 @@
+/* Page Header - Client Billing */
+
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 1px #d8d8d8;
+    max-width: 1050px;
+    margin: 10px 20%;
+}
+
+.page-header-left,
+.page-header-right {
+    display: flex;
+}
+
+
+.page-heading-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1vw;
+    line-height: 30px;
+    letter-spacing: 0.2925px;
+    color: #000000;
+
+}
+
+.page-sub-text-heading {
+    margin-top: 17px;
+    margin-left: 5px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1vw;
+    line-height: 30px;
+    letter-spacing: 0.2925px; 
+    color: #555555;
+}
+.docs-text {
+    margin-top: 18px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 30px;
+    letter-spacing: 0.26px;
+    color: #000000;
+}
